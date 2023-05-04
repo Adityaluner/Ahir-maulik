@@ -1,2 +1,6 @@
-# Ahir-maulik
-Isn't the moon lovely 
+#include<iostrem>
+Int main ()
+{
+   Cout<<"Hello world";
+   return 0;
+}
